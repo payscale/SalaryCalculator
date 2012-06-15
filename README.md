@@ -3,7 +3,9 @@ SalaryCalculator
 
 Tools and Examples for using PayScale's salary calculator
 
-[Setting up job Listings] (/payscale/SalaryCalculator/wiki/Setting-up-Job-Listings)
+Salary Calculator for Job Listings
+=========
+[Guide to Setting up job Listings] (http://www.payscale.com/syndication/joblistings.aspx)
 
-More information here:
-http://www.payscale.com/syndication/joblistings.aspx
+[Example Code] (https://github.com/payscale/SalaryCalculator/blob/master/job-listings/sample.html)
+
